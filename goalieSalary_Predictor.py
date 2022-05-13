@@ -1,7 +1,5 @@
 import pandas as pd
 import streamlit as st
-import matplotlib.pyplot as plt
-import plotly.graph_objects as go
 import numpy as np
 import pickle
 
@@ -17,9 +15,6 @@ highDangerxGoals_pg = st.number_input('Goals allowed for high danger shots per g
 
 # store the inputs
 features = [goals_pg, rebounds_pg, lowDangerxGoals_pg, mediumDangerxGoals_pg, highDangerxGoals_pg]
-# convert user inputs into an array fr the model
-#int_features = [int(x) for x in features]
-#final_features = [np.array(int_features)]
 
 # convert user inputs into an array fr the model
 #int_features = [int(x) for x in features]

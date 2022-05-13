@@ -4,7 +4,7 @@ import numpy as np
 import pickle
 
 st.markdown('## Salary Predictor For NHL Goalies')
-model = pickle.load(open('./model.pkl', 'rb')) # load the model
+model = pickle.load(open('./model/model.pkl', 'rb')) # load the model
 
 # Take the users input
 goals_pg = st.number_input('Goals per game')

@@ -1,6 +1,4 @@
 pandas
 numpy
-matplotlib
-pickleshare
-plotly
-scikit-learn
+streamlit
+pickle

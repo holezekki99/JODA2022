@@ -1,7 +1,7 @@
 # JODA2022
 Johdatus Datatieteeseen kevät 2022
 
-Pääansiossa seuraavat tiedostot:
+Pääkansiossa seuraavat tiedostot:
 1. Oppimispäiväkirja *JODA2022_workbook.ipynb*
 2. Harjoitustyö *JODA2022_Harjoitustyö_Holstila*
 3. Harjoitustyön työkirja *Goalie_salary_prediction.ipynb*
